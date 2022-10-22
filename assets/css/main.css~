@@ -1258,7 +1258,7 @@ margin-left: 170px;
 @media (max-width: 480px) {
 
 .hero-container{
-margin-left: 180px;
+margin-left: 184px;
 
 }
 
@@ -1270,7 +1270,14 @@ Flex: 1;
 
 }
 
-@media (max-width: 438px) {
+@media (max-width: 359px) {
+.hero-container{
+margin-left: -40px;
+}
+.header-text h4 {
+margin-left: -10px;
+font-weight: 100;
+}
 
 
 
