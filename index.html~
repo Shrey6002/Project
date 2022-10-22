@@ -71,12 +71,12 @@ margin-left: 15px;
           <!-- ***** Banner Start ***** -->
           <div class="main-banner">
             <div class="row">
-              <div class="col-lg-7">
+              <div class="col-lg-8">
                 <div class="header-text">
                   <h6>Welcome To Visualgo</h6>
                   <h4>Start Visualzing</h4>
 		<div class="hero-container">
-    		<h4 class="hero glitch layers header-text" data-text="Algorithms"><span>ALGORITHMS</span></h4>
+    		<h4 class="hero glitch layers" data-text="Algorithms"><span>ALGORITHMS</span></h4>
   		</div>
                   <div class="main-button">
                     <a href="browse.html">Here</a>

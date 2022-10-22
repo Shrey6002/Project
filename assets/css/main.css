@@ -1252,6 +1252,8 @@ body {
 
 .hero-container{
 margin-left: 170px;
+text-align: center;
+position: absolute;
 
 }
 
@@ -1273,6 +1275,7 @@ Flex: 1;
 @media (max-width: 359px) {
 .hero-container{
 margin-left: -30px;
+
 }
 .header-text h4 {
 margin-left: -10px;
