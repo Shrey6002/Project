@@ -1255,10 +1255,25 @@ margin-left: 170px;
 
 }
 
-@media (max-width: 438px) {
+@media (max-width: 480px) {
 
 .hero-container{
-margin-left: 165px;
+margin-left: 184px;
+
+}
+
+@media (max-width: 480px) {
+
+alignItems: center;
+JustifyContent: center;
+Flex: 1;
+
+}
+
+@media (max-width: 438px) {
+
+
+
 
 }
   body .page-content {
