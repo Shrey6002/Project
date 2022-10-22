@@ -1257,14 +1257,14 @@ position: absolute;
 
 }
 
-@media (max-width: 480px) {
+@media (max-width: 403px) {
 
 .hero-container{
-margin-left: 184px;
+margin-left: 150px;
 
 }
 
-@media (max-width: 480px) {
+@media (max-width: 403px) {
 
 alignItems: center;
 JustifyContent: center;
